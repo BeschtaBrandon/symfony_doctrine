@@ -63,3 +63,9 @@ yarn encore dev --watch
 - JavaScript
 - HTML / CSS
 - mySQL databases
+
+## Helpful resources
+
+- Symfony docs (https://symfony.com/doc/current/index.html)
+- Learn about twig templates (https://twig.symfony.com/)
+- Doctrine (https://symfony.com/projects/doctrine)
